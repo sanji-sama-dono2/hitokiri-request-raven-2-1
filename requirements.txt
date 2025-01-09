@@ -1,0 +1,6 @@
+https://codeload.github.com/sanjisama6287/pyrogram/zip/refs/heads/dev
+TgCrypto
+pyromod
+pymongo
+dnspython
+aiohttp
